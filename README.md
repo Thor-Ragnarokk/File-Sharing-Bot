@@ -124,3 +124,6 @@ published by the Free Software Foundation, either version 3 of the License, or
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
+   
+   
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Thor-Ragnarokk/File-Sharing-Bot)
